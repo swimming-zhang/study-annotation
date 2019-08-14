@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/note.txt=GBK
+encoding//src/com/atguigu/servlet/HelloAsyncServlet.java=GBK
+encoding//src/com/atguigu/servlet/MyServletContainerInitializer.java=GBK
+encoding//src/com/atguigu/servlet/UserFilter.java=GBK
+encoding//src/com/atguigu/servlet/UserListener.java=GBK
